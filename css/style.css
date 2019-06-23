@@ -1,14 +1,23 @@
-.wrap {
+body{
 
-	background: url("/home/cgi/Html_Assignment/img/fght10.jpeg");
+	background: url("/home/cgi/Html_Assignment/img/su 2.jpg");
 	background-repeat: no-repeat;
-	width: 100%;
-	height: auto;
-	
+}
+#top{
+	padding-top: 22px;
+}
+header h1 {
+	padding-top: 10px;
+	font-size: 35px;
+	color:white;
+}
+
+.iaf {
+	padding-top: 170px;
 
 }
-.iaf {
-	padding-top: 100px;
+.iaf2 {
+	padding-top: 5px;
 	color: white;
 	font-size: 50px;
 
@@ -17,21 +26,35 @@
 .img{
 	margin-top:5px;
 	width:auto;
-	height: 34px;
+	height: auto;
 }
 header{
 	overflow: hidden;
 }
-header li{ 
+header li,a{ 
 	display: inline;
-	padding: 10px;
+	margin-right: 20px;
+	padding-top: 10px;
+	color: white;
+	font-size: 20px;
+	text-decoration:none;
 }
+header a:hover{
+	text-decoration:underline;
+	color:blue;}
 .middle{
-	padding-top: 500px;
+	padding-top: 430px;
 }
-.middle,.middle1, .middle3 p,h2 {
+.middle1 h1,section{
+	padding: 20px;
+	font-family: actor;
+}
+.middle1, .middle3 p,h2 {
+	padding: 20px;
 	text-align: center;
-	}
+	font-family: actor;
+
+}
 .middle2 img{
 	width: auto;
 	height: 165px;
@@ -60,6 +83,7 @@ header li{
 	align-content: center;
 }
 .primary4, .primary5{
+	font-family: actor;
 	padding-top: 20px;
 	background-color: black;
 	color: white;
@@ -68,13 +92,9 @@ header li{
 	width: auto;
 	height: 165px;
 	padding-left: 70px;
-	}
-.primary{
-	background-color: yellow;
 }
-div h1{
-	font-size: 30px;
-}
+
+
 .fa {
   padding: 20px;
   font-size: 20px;
