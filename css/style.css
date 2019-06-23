@@ -6,6 +6,11 @@ body{
 #top{
 	padding-top: 22px;
 }
+.middleimg{
+	height: 80px;
+	width: 80px;
+	padding-top: 10px;
+}
 header h1 {
 	padding-top: 10px;
 	font-size: 35px;
