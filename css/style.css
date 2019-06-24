@@ -1,7 +1,8 @@
 body{
 
-	background: url("/home/cgi/Html_Assignment/img/su 2.jpg");
+	background: url("img/su_2.jpg");
 	background-repeat: no-repeat;
+	backface-visibility: 0.5;
 }
 #top{
 	padding-top: 22px;
