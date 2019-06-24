@@ -1,6 +1,6 @@
 body{
-
-	background: url("/home/cgi/htmlassignment/su.png");
+	background-: url("https://drive.google.com/file/d/19bhGrqBNkdNUOoxQde5HAwL0nmXX0TdD/view?usp=sharing"); 
+	background: url("/home/cgi1/htmlassignment/su.png");
 	background-repeat: no-repeat;
 
 }
@@ -10,8 +10,9 @@ body{
 .middleimg{
 	height: 80px;
 	width: 80px;
-	padding-top: 10px;
-}
+	padding: 15px;
+	margin-left: 50px;
+	}
 header h1 {
 	padding-top: 10px;
 	font-size: 35px;
