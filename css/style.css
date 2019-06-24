@@ -1,8 +1,8 @@
 body{
 
-	background: url("img/su_2.jpg");
+	background: url("file:///home/cgi/Html_Assignment/background.jpg");
 	background-repeat: no-repeat;
-	backface-visibility: 0.5;
+
 }
 #top{
 	padding-top: 22px;
